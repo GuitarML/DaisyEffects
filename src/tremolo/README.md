@@ -13,7 +13,7 @@ Basic implementation of DaisySP Tremolo for Terrarium
 | Ctrl 6 |  |  |
 | SW 1 - 4 |  | |
 | FS 1 | Bypass/Active | Bypass / effect engaged |
-| FS 2 | Cycle Waveform (8 available) |  |
+| FS 2 | Cycle Waveform (5 available) |  |
 | LED 1 | Bypass/Active Indicator |Illuminated when effect is set to Active |
 | LED 2 |  |  |
 | Audio In 1 | Audio input | Mono only for Terrarium |
