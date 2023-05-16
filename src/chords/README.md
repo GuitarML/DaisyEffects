@@ -1,5 +1,5 @@
 # Description
-Chord generating multi-effect using pitchshifter, samplerate reducer, and reverb.
+Chord generating multi-effect using pitchshifter, samplerate reducer.
 
 # Control
 
@@ -8,9 +8,9 @@ Chord generating multi-effect using pitchshifter, samplerate reducer, and reverb
 | Ctrl 1 | Note sampelrate | Reduces the sampelrate of the generated chord notes for lofi sound |
 | Ctrl 2 | Fun | Adds randomization  |
 | Ctrl 3 | Chord Mix | Left for more dry, right for more chord |
-| Ctrl 4 | Reverb Time |  |
-| Ctrl 5 | Reverb Freq |  |
-| Ctrl 6 | Reverb Mix |  |
+| Ctrl 4 |  |  |
+| Ctrl 5 | |  |
+| Ctrl 6 | |  |
 | SW 1 - 4 |  | |
 | FS 1 | Bypass/Active | Bypass / effect engaged |
 | FS 2 | Switch to next chord |  |
