@@ -62,7 +62,6 @@ static void AudioCallback(AudioHandle::InputBuffer  in,
         sendl = dryl * vsend_value;
         sendr = sendl;
 
-        verb.Process(sendl, sendr, &wetl, &wetr);
         // Process your signal here
         if(bypass)
         {
